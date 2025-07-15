@@ -6,4 +6,4 @@ PyJWT==2.8.0
 gunicorn==21.2.0
 Pillow==11.2.1
 torch==2.7.1
-torchvision==0.15.4
+torchvision==0.22.1
